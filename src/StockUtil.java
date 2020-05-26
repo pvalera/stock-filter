@@ -19,28 +19,26 @@ public class StockUtil {
 
 	static Map<String, Double> prices = new HashMap<String, Double>() {
 		{
-			put("AMD", 3.28);
-			put("HPQ", 35.92);
-			put("IBM", 189.36);
-			put("TXN", 46.94);
-			put("VMW", 92.98);
-			put("XRX", 13.09);
-			put("AAPL", 100.8);
-			put("ADBE", 67.99);
-			put("AMZN", 322.7);
-			put("CRAY", 25.92);
-			put("CSCO", 24.66);
-			put("SNE", 17.79);
-			put("GOOG", 572.5);
-			put("INTC", 34.27);
-			put("INTU", 83.8);
-			put("MSFT", 46.78);
+			put("AMD", 53.19);
+			put("HPQ", 17.06);
+			put("IBM", 121.76);
+			put("TXN", 115.73);
+			put("VMW", 137.93);
+			put("XRX", 17.43);
+			put("AAPL", 316.73);
+			put("ADBE", 376.63);
+			put("AMZN", 2421.86);
+			put("FB", 232.20);
+			put("CSCO", 44.84);
+			put("SNE", 62.18);
+			put("GOOG", 1417.02);
+			put("INTC", 62.34);
+			put("INTU", 282.20);
+			put("MSFT", 181.57);
 			put("ORCL", 39.02);
-			put("TIBX", 23.44);
-			put("VRSN", 56.13);
-			put("YHOO", 41.08);
+			put("BABA", 201.72);
+			put("VRSN", 208.22);
 			put("BTC-USD", 9655.32);
-
 		}
 	};
 }
