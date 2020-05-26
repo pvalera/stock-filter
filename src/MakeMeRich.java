@@ -4,9 +4,8 @@ import java.util.List;
 
 public class MakeMeRich {
 	public static final List<String> symbols = Arrays.asList("AMD", "HPQ",
-			"IBM", "TXN", "VMW", "XRX", "AAPL", "ADBE", "AMZN", "CRAY", "CSCO",
-			"SNE", "GOOG", "INTC", "INTU", "MSFT", "ORCL", "TIBX", "VRSN",
-			"YHOO");
+			"IBM", "TXN", "VMW", "XRX", "AAPL", "ADBE", "AMZN", "FB", "CSCO",
+			"SNE", "GOOG", "INTC", "INTU", "MSFT", "ORCL", "BABA", "VRSN");
 
 	public static void main(String[] args) {
 
